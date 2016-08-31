@@ -1,0 +1,17 @@
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\Ch10CardLib.csprojResolveAssemblyReference.cache
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\bin\Debug\Ch10CardLib.dll
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\bin\Debug\Ch10CardLib.pdb
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\bin\Debug\Ch10CardLib.pri
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\Ch10CardLib.dll
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\Ch10CardLib.pdb
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\priconfig.xml
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\priconfig.xml.intermediate
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\layout.resfiles
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\layout.resfiles.intermediate
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\resources.resfiles
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\resources.resfiles.intermediate
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\pri.resfiles
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\pri.resfiles.intermediate
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\qualifiers.txt
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\qualifiers.txt.intermediate
+c:\users\harman\documents\visual studio 2015\Projects\Ch10CardLib\Ch10CardLib\obj\Debug\MultipleQualifiersPerDimensionFound.txt

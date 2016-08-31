@@ -1,0 +1,8 @@
+C:\Users\HS1122\Desktop\C#\WCF\Ch22Ex02\Ch22Ex02\bin\Ch22Ex02.dll.config
+C:\Users\HS1122\Desktop\C#\WCF\Ch22Ex02\Ch22Ex02\bin\Ch22Ex02.dll
+C:\Users\HS1122\Desktop\C#\WCF\Ch22Ex02\Ch22Ex02\bin\Ch22Ex02.pdb
+C:\Users\HS1122\Desktop\C#\WCF\Ch22Ex02\Ch22Ex02\bin\Ch22Ex02Contracts.dll
+C:\Users\HS1122\Desktop\C#\WCF\Ch22Ex02\Ch22Ex02\bin\Ch22Ex02Contracts.pdb
+C:\Users\HS1122\Desktop\C#\WCF\Ch22Ex02\Ch22Ex02\obj\Debug\Ch22Ex02.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\WCF\Ch22Ex02\Ch22Ex02\obj\Debug\Ch22Ex02.dll
+C:\Users\HS1122\Desktop\C#\WCF\Ch22Ex02\Ch22Ex02\obj\Debug\Ch22Ex02.pdb

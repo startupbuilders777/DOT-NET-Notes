@@ -1,0 +1,10 @@
+C:\Users\HS1122\Desktop\C#\DATABASETUT\DATABASETUT\bin\Debug\DATABASETUT.exe.config
+C:\Users\HS1122\Desktop\C#\DATABASETUT\DATABASETUT\bin\Debug\DATABASETUT.exe
+C:\Users\HS1122\Desktop\C#\DATABASETUT\DATABASETUT\bin\Debug\DATABASETUT.pdb
+C:\Users\HS1122\Desktop\C#\DATABASETUT\DATABASETUT\bin\Debug\EntityFramework.dll
+C:\Users\HS1122\Desktop\C#\DATABASETUT\DATABASETUT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HS1122\Desktop\C#\DATABASETUT\DATABASETUT\bin\Debug\EntityFramework.xml
+C:\Users\HS1122\Desktop\C#\DATABASETUT\DATABASETUT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HS1122\Desktop\C#\DATABASETUT\DATABASETUT\obj\Debug\DATABASETUT.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\DATABASETUT\DATABASETUT\obj\Debug\DATABASETUT.exe
+C:\Users\HS1122\Desktop\C#\DATABASETUT\DATABASETUT\obj\Debug\DATABASETUT.pdb

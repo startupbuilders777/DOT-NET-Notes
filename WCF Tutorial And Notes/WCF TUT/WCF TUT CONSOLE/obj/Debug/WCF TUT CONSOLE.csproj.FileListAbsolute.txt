@@ -1,0 +1,6 @@
+C:\Users\HS1122\Desktop\C#\WCF TUT\WCF TUT CONSOLE\bin\Debug\WCF TUT CONSOLE.exe.config
+C:\Users\HS1122\Desktop\C#\WCF TUT\WCF TUT CONSOLE\bin\Debug\WCF TUT CONSOLE.exe
+C:\Users\HS1122\Desktop\C#\WCF TUT\WCF TUT CONSOLE\bin\Debug\WCF TUT CONSOLE.pdb
+C:\Users\HS1122\Desktop\C#\WCF TUT\WCF TUT CONSOLE\obj\Debug\WCF TUT CONSOLE.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\WCF TUT\WCF TUT CONSOLE\obj\Debug\WCF TUT CONSOLE.exe
+C:\Users\HS1122\Desktop\C#\WCF TUT\WCF TUT CONSOLE\obj\Debug\WCF TUT CONSOLE.pdb

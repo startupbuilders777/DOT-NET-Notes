@@ -1,0 +1,39 @@
+C:\Users\Jacob\Documents\Wrox\2012\In Progress\Chapter 22\Chapter22Code\XpathQuery\bin\Debug\XpathQuery.exe.config
+C:\Users\Jacob\Documents\Wrox\2012\In Progress\Chapter 22\Chapter22Code\XpathQuery\obj\Debug\XpathQuery.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\Wrox\2012\In Progress\Chapter 22\Chapter22Code\XpathQuery\obj\Debug\MainWindow.baml
+C:\Users\Jacob\Documents\Wrox\2012\In Progress\Chapter 22\Chapter22Code\XpathQuery\obj\Debug\MainWindow.g.cs
+C:\Users\Jacob\Documents\Wrox\2012\In Progress\Chapter 22\Chapter22Code\XpathQuery\obj\Debug\App.g.cs
+C:\Users\Jacob\Documents\Wrox\2012\In Progress\Chapter 22\Chapter22Code\XpathQuery\obj\Debug\XpathQuery_MarkupCompile.cache
+C:\Users\Jacob\Documents\Wrox\2012\In Progress\Chapter 22\Chapter22Code\XpathQuery\obj\Debug\XpathQuery.g.resources
+C:\Users\Jacob\Documents\Wrox\2012\In Progress\Chapter 22\Chapter22Code\XpathQuery\obj\Debug\XpathQuery.Properties.Resources.resources
+C:\Users\Jacob\Documents\Wrox\2012\In Progress\Chapter 22\Chapter22Code\XpathQuery\obj\Debug\XpathQuery.csproj.GenerateResource.Cache
+C:\Users\Jacob\Documents\Wrox\2012\In Progress\Chapter 22\Chapter22Code\XpathQuery\bin\Debug\XpathQuery.exe
+C:\Users\Jacob\Documents\Wrox\2012\In Progress\Chapter 22\Chapter22Code\XpathQuery\bin\Debug\XpathQuery.pdb
+C:\Users\Jacob\Documents\Wrox\2012\In Progress\Chapter 22\Chapter22Code\XpathQuery\obj\Debug\XpathQuery.exe
+C:\Users\Jacob\Documents\Wrox\2012\In Progress\Chapter 22\Chapter22Code\XpathQuery\obj\Debug\XpathQuery.pdb
+C:\BegVCSharp\Chapter19\XpathQuery\bin\Debug\XpathQuery.exe.config
+C:\BegVCSharp\Chapter19\XpathQuery\obj\Debug\XpathQuery.exe
+C:\BegVCSharp\Chapter19\XpathQuery\obj\Debug\XpathQuery.pdb
+C:\BegVCSharp\Chapter19\XpathQuery\bin\Debug\XpathQuery.exe
+C:\BegVCSharp\Chapter19\XpathQuery\bin\Debug\XpathQuery.pdb
+C:\BegVCSharp\Chapter19\XpathQuery\obj\Debug\XpathQuery.csprojResolveAssemblyReference.cache
+C:\BegVCSharp\Chapter19\XpathQuery\obj\Debug\MainWindow.baml
+C:\BegVCSharp\Chapter19\XpathQuery\obj\Debug\MainWindow.g.cs
+C:\BegVCSharp\Chapter19\XpathQuery\obj\Debug\App.g.cs
+C:\BegVCSharp\Chapter19\XpathQuery\obj\Debug\XpathQuery_MarkupCompile.cache
+C:\BegVCSharp\Chapter19\XpathQuery\obj\Debug\XpathQuery.g.resources
+C:\BegVCSharp\Chapter19\XpathQuery\obj\Debug\XpathQuery.Properties.Resources.resources
+C:\BegVCSharp\Chapter19\XpathQuery\obj\Debug\XpathQuery.csproj.GenerateResource.Cache
+C:\Users\HS1122\Desktop\C#\XpathQuery\bin\Debug\XpathQuery.exe.config
+C:\Users\HS1122\Desktop\C#\XpathQuery\obj\Debug\XpathQuery.exe
+C:\Users\HS1122\Desktop\C#\XpathQuery\obj\Debug\XpathQuery.pdb
+C:\Users\HS1122\Desktop\C#\XpathQuery\bin\Debug\XpathQuery.exe
+C:\Users\HS1122\Desktop\C#\XpathQuery\bin\Debug\XpathQuery.pdb
+C:\Users\HS1122\Desktop\C#\XpathQuery\obj\Debug\XpathQuery.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\XpathQuery\obj\Debug\MainWindow.baml
+C:\Users\HS1122\Desktop\C#\XpathQuery\obj\Debug\MainWindow.g.cs
+C:\Users\HS1122\Desktop\C#\XpathQuery\obj\Debug\App.g.cs
+C:\Users\HS1122\Desktop\C#\XpathQuery\obj\Debug\XpathQuery_MarkupCompile.cache
+C:\Users\HS1122\Desktop\C#\XpathQuery\obj\Debug\XpathQuery.g.resources
+C:\Users\HS1122\Desktop\C#\XpathQuery\obj\Debug\XpathQuery.Properties.Resources.resources
+C:\Users\HS1122\Desktop\C#\XpathQuery\obj\Debug\XpathQuery.csproj.GenerateResource.Cache

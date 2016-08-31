@@ -1,0 +1,10 @@
+C:\Users\HS1122\Desktop\C#\WCF\Ch22Ex02\Ch22Ex02Contracts\bin\Debug\Ch22Ex02Contracts.dll
+C:\Users\HS1122\Desktop\C#\WCF\Ch22Ex02\Ch22Ex02Contracts\bin\Debug\Ch22Ex02Contracts.pdb
+C:\Users\HS1122\Desktop\C#\WCF\Ch22Ex02\Ch22Ex02Contracts\obj\Debug\Ch22Ex02Contracts.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\WCF\Ch22Ex02\Ch22Ex02Contracts\obj\Debug\Ch22Ex02Contracts.dll
+C:\Users\HS1122\Desktop\C#\WCF\Ch22Ex02\Ch22Ex02Contracts\obj\Debug\Ch22Ex02Contracts.pdb
+C:\Users\HS1122\Desktop\C#\WCF\WCF TUT2\Ch22Ex02Contracts\bin\Debug\Ch22Ex02Contracts.dll
+C:\Users\HS1122\Desktop\C#\WCF\WCF TUT2\Ch22Ex02Contracts\bin\Debug\Ch22Ex02Contracts.pdb
+C:\Users\HS1122\Desktop\C#\WCF\WCF TUT2\Ch22Ex02Contracts\obj\Debug\Ch22Ex02Contracts.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\WCF\WCF TUT2\Ch22Ex02Contracts\obj\Debug\Ch22Ex02Contracts.dll
+C:\Users\HS1122\Desktop\C#\WCF\WCF TUT2\Ch22Ex02Contracts\obj\Debug\Ch22Ex02Contracts.pdb

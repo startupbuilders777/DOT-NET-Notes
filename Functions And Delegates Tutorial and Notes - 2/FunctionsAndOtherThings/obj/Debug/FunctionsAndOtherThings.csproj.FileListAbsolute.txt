@@ -1,0 +1,12 @@
+C:\Users\HS1122\Desktop\C#\FunctionsAndOtherThings\FunctionsAndOtherThings\bin\Debug\FunctionsAndOtherThings.exe.config
+C:\Users\HS1122\Desktop\C#\FunctionsAndOtherThings\FunctionsAndOtherThings\bin\Debug\FunctionsAndOtherThings.exe
+C:\Users\HS1122\Desktop\C#\FunctionsAndOtherThings\FunctionsAndOtherThings\bin\Debug\FunctionsAndOtherThings.pdb
+C:\Users\HS1122\Desktop\C#\FunctionsAndOtherThings\FunctionsAndOtherThings\obj\Debug\FunctionsAndOtherThings.exe
+C:\Users\HS1122\Desktop\C#\FunctionsAndOtherThings\FunctionsAndOtherThings\obj\Debug\FunctionsAndOtherThings.pdb
+C:\Users\HS1122\Desktop\C#\FunctionsAndOtherThings\FunctionsAndOtherThings\obj\Debug\FunctionsAndOtherThings.csprojResolveAssemblyReference.cache
+C:\Users\Harman\Desktop\C#\FunctionsAndOtherThings\FunctionsAndOtherThings\bin\Debug\FunctionsAndOtherThings.exe.config
+C:\Users\Harman\Desktop\C#\FunctionsAndOtherThings\FunctionsAndOtherThings\obj\Debug\FunctionsAndOtherThings.exe
+C:\Users\Harman\Desktop\C#\FunctionsAndOtherThings\FunctionsAndOtherThings\obj\Debug\FunctionsAndOtherThings.pdb
+C:\Users\Harman\Desktop\C#\FunctionsAndOtherThings\FunctionsAndOtherThings\bin\Debug\FunctionsAndOtherThings.exe
+C:\Users\Harman\Desktop\C#\FunctionsAndOtherThings\FunctionsAndOtherThings\bin\Debug\FunctionsAndOtherThings.pdb
+C:\Users\Harman\Desktop\C#\FunctionsAndOtherThings\FunctionsAndOtherThings\obj\Debug\FunctionsAndOtherThings.csprojResolveAssemblyReference.cache

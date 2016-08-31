@@ -1,0 +1,6 @@
+C:\Users\HS1122\Desktop\C#\Threads\Threads\bin\Debug\Threads.exe.config
+C:\Users\HS1122\Desktop\C#\Threads\Threads\bin\Debug\Threads.exe
+C:\Users\HS1122\Desktop\C#\Threads\Threads\bin\Debug\Threads.pdb
+C:\Users\HS1122\Desktop\C#\Threads\Threads\obj\Debug\Threads.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\Threads\Threads\obj\Debug\Threads.exe
+C:\Users\HS1122\Desktop\C#\Threads\Threads\obj\Debug\Threads.pdb

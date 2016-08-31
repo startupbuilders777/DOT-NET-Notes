@@ -1,0 +1,15 @@
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\bin\Debug\LoopThroughXmlDocument.exe.config
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\obj\Debug\MainWindow.baml
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\obj\Debug\MainWindow.g.cs
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\obj\Debug\App.g.cs
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument_MarkupCompile.cache
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument.g.resources
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument.Properties.Resources.resources
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument.csproj.GenerateResource.Cache
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\bin\Debug\LoopThroughXmlDocument.exe
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\bin\Debug\LoopThroughXmlDocument.pdb
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument.exe
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument.pdb
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HS1122\Desktop\C#\XML TUT\LoopThroughXmlDocument\bin\Debug\Newtonsoft.Json.xml

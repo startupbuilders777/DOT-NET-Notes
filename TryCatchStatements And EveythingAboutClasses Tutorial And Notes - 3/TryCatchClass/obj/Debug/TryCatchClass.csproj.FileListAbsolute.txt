@@ -1,0 +1,18 @@
+c:\users\hs1122\documents\visual studio 2015\Projects\TryCatchClass\TryCatchClass\bin\Debug\TryCatchClass.exe.config
+c:\users\hs1122\documents\visual studio 2015\Projects\TryCatchClass\TryCatchClass\obj\Debug\TryCatchClass.csprojResolveAssemblyReference.cache
+c:\users\hs1122\documents\visual studio 2015\Projects\TryCatchClass\TryCatchClass\bin\Debug\TryCatchClass.exe
+c:\users\hs1122\documents\visual studio 2015\Projects\TryCatchClass\TryCatchClass\bin\Debug\TryCatchClass.pdb
+c:\users\hs1122\documents\visual studio 2015\Projects\TryCatchClass\TryCatchClass\obj\Debug\TryCatchClass.exe
+c:\users\hs1122\documents\visual studio 2015\Projects\TryCatchClass\TryCatchClass\obj\Debug\TryCatchClass.pdb
+C:\Users\HS1122\Desktop\C#\TryCatchClass\TryCatchClass\bin\Debug\TryCatchClass.exe.config
+C:\Users\HS1122\Desktop\C#\TryCatchClass\TryCatchClass\obj\Debug\TryCatchClass.exe
+C:\Users\HS1122\Desktop\C#\TryCatchClass\TryCatchClass\obj\Debug\TryCatchClass.pdb
+C:\Users\HS1122\Desktop\C#\TryCatchClass\TryCatchClass\bin\Debug\TryCatchClass.exe
+C:\Users\HS1122\Desktop\C#\TryCatchClass\TryCatchClass\bin\Debug\TryCatchClass.pdb
+C:\Users\HS1122\Desktop\C#\TryCatchClass\TryCatchClass\obj\Debug\TryCatchClass.csprojResolveAssemblyReference.cache
+C:\Users\Harman\Desktop\C#\TryCatchClass\TryCatchClass\bin\Debug\TryCatchClass.exe.config
+C:\Users\Harman\Desktop\C#\TryCatchClass\TryCatchClass\obj\Debug\TryCatchClass.exe
+C:\Users\Harman\Desktop\C#\TryCatchClass\TryCatchClass\obj\Debug\TryCatchClass.pdb
+C:\Users\Harman\Desktop\C#\TryCatchClass\TryCatchClass\bin\Debug\TryCatchClass.exe
+C:\Users\Harman\Desktop\C#\TryCatchClass\TryCatchClass\bin\Debug\TryCatchClass.pdb
+C:\Users\Harman\Desktop\C#\TryCatchClass\TryCatchClass\obj\Debug\TryCatchClass.csprojResolveAssemblyReference.cache

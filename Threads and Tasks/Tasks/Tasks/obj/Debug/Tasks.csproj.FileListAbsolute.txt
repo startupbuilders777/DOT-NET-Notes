@@ -1,0 +1,6 @@
+C:\Users\HS1122\Desktop\C#\Tasks\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\HS1122\Desktop\C#\Tasks\Tasks\bin\Debug\Tasks.exe
+C:\Users\HS1122\Desktop\C#\Tasks\Tasks\bin\Debug\Tasks.pdb
+C:\Users\HS1122\Desktop\C#\Tasks\Tasks\obj\Debug\Tasks.exe
+C:\Users\HS1122\Desktop\C#\Tasks\Tasks\obj\Debug\Tasks.pdb
+C:\Users\HS1122\Desktop\C#\Tasks\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\HS1122\Desktop\C#\DATABASE\DATABASE\bin\Debug\DATABASE.exe.config
+C:\Users\HS1122\Desktop\C#\DATABASE\DATABASE\bin\Debug\DATABASE.exe
+C:\Users\HS1122\Desktop\C#\DATABASE\DATABASE\bin\Debug\DATABASE.pdb
+C:\Users\HS1122\Desktop\C#\DATABASE\DATABASE\bin\Debug\EntityFramework.dll
+C:\Users\HS1122\Desktop\C#\DATABASE\DATABASE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HS1122\Desktop\C#\DATABASE\DATABASE\bin\Debug\EntityFramework.xml
+C:\Users\HS1122\Desktop\C#\DATABASE\DATABASE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HS1122\Desktop\C#\DATABASE\DATABASE\obj\Debug\DATABASE.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\DATABASE\DATABASE\obj\Debug\DATABASE.exe
+C:\Users\HS1122\Desktop\C#\DATABASE\DATABASE\obj\Debug\DATABASE.pdb
+C:\Users\HS1122\Desktop\C#\DATABASE\DATABASE\obj\Debug\DATABASE.Migrations.init.resources
+C:\Users\HS1122\Desktop\C#\DATABASE\DATABASE\obj\Debug\DATABASE.csproj.GenerateResource.Cache

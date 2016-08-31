@@ -1,0 +1,4 @@
+C:\Users\HS1122\Documents\Projects\Ch05Ex02\Ch05Ex02\bin\Release\Ch05Ex02.exe
+C:\Users\HS1122\Documents\Projects\Ch05Ex02\Ch05Ex02\bin\Release\Ch05Ex02.pdb
+C:\Users\HS1122\Documents\Projects\Ch05Ex02\Ch05Ex02\obj\x86\Release\Ch05Ex02.exe
+C:\Users\HS1122\Documents\Projects\Ch05Ex02\Ch05Ex02\obj\x86\Release\Ch05Ex02.pdb

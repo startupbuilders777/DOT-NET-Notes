@@ -1,0 +1,6 @@
+C:\Users\HS1122\Desktop\C#\ThreadJoin\ThreadJoin\bin\Debug\ThreadJoin.exe.config
+C:\Users\HS1122\Desktop\C#\ThreadJoin\ThreadJoin\bin\Debug\ThreadJoin.exe
+C:\Users\HS1122\Desktop\C#\ThreadJoin\ThreadJoin\bin\Debug\ThreadJoin.pdb
+C:\Users\HS1122\Desktop\C#\ThreadJoin\ThreadJoin\obj\Debug\ThreadJoin.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\ThreadJoin\ThreadJoin\obj\Debug\ThreadJoin.exe
+C:\Users\HS1122\Desktop\C#\ThreadJoin\ThreadJoin\obj\Debug\ThreadJoin.pdb

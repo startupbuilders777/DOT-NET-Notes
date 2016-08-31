@@ -1,0 +1,6 @@
+C:\Users\HS1122\Desktop\C#\ArraysEnumsStructsConversions\ArraysEnumsStructsConversions\bin\Debug\ArraysEnumsStructsConversions.exe.config
+C:\Users\HS1122\Desktop\C#\ArraysEnumsStructsConversions\ArraysEnumsStructsConversions\bin\Debug\ArraysEnumsStructsConversions.exe
+C:\Users\HS1122\Desktop\C#\ArraysEnumsStructsConversions\ArraysEnumsStructsConversions\bin\Debug\ArraysEnumsStructsConversions.pdb
+C:\Users\HS1122\Desktop\C#\ArraysEnumsStructsConversions\ArraysEnumsStructsConversions\obj\Debug\ArraysEnumsStructsConversions.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\ArraysEnumsStructsConversions\ArraysEnumsStructsConversions\obj\Debug\ArraysEnumsStructsConversions.exe
+C:\Users\HS1122\Desktop\C#\ArraysEnumsStructsConversions\ArraysEnumsStructsConversions\obj\Debug\ArraysEnumsStructsConversions.pdb

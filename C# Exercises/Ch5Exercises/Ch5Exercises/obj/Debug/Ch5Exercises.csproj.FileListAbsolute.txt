@@ -1,0 +1,6 @@
+C:\Users\HS1122\Desktop\C#\Ch5Exercises\Ch5Exercises\bin\Debug\Ch5Exercises.exe.config
+C:\Users\HS1122\Desktop\C#\Ch5Exercises\Ch5Exercises\bin\Debug\Ch5Exercises.exe
+C:\Users\HS1122\Desktop\C#\Ch5Exercises\Ch5Exercises\bin\Debug\Ch5Exercises.pdb
+C:\Users\HS1122\Desktop\C#\Ch5Exercises\Ch5Exercises\obj\Debug\Ch5Exercises.exe
+C:\Users\HS1122\Desktop\C#\Ch5Exercises\Ch5Exercises\obj\Debug\Ch5Exercises.pdb
+C:\Users\HS1122\Desktop\C#\Ch5Exercises\Ch5Exercises\obj\Debug\Ch5Exercises.csprojResolveAssemblyReference.cache

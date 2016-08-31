@@ -1,0 +1,10 @@
+C:\Users\Harman\Documents\Visual Studio 2015\Projects\Ch10CardLib\CardLib\bin\Debug\CardLib.dll
+C:\Users\Harman\Documents\Visual Studio 2015\Projects\Ch10CardLib\CardLib\bin\Debug\CardLib.pdb
+C:\Users\Harman\Documents\Visual Studio 2015\Projects\Ch10CardLib\CardLib\obj\Debug\CardLib.csprojResolveAssemblyReference.cache
+C:\Users\Harman\Documents\Visual Studio 2015\Projects\Ch10CardLib\CardLib\obj\Debug\CardLib.dll
+C:\Users\Harman\Documents\Visual Studio 2015\Projects\Ch10CardLib\CardLib\obj\Debug\CardLib.pdb
+C:\Users\Harman\Desktop\C#\Ch10CardLib\CardLib\bin\Debug\CardLib.dll
+C:\Users\Harman\Desktop\C#\Ch10CardLib\CardLib\bin\Debug\CardLib.pdb
+C:\Users\Harman\Desktop\C#\Ch10CardLib\CardLib\obj\Debug\CardLib.csprojResolveAssemblyReference.cache
+C:\Users\Harman\Desktop\C#\Ch10CardLib\CardLib\obj\Debug\CardLib.dll
+C:\Users\Harman\Desktop\C#\Ch10CardLib\CardLib\obj\Debug\CardLib.pdb

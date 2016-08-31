@@ -1,0 +1,14 @@
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\bin\Debug\WPFProgram.exe.config
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\bin\Debug\WPFProgram.exe
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\bin\Debug\WPFProgram.pdb
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\obj\Debug\WPFProgram.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\obj\Debug\MainWindow.g.cs
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\obj\Debug\App.g.cs
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\obj\Debug\WPFProgram_MarkupCompile.cache
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\obj\Debug\WPFProgram_MarkupCompile.lref
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\obj\Debug\MainWindow.baml
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\obj\Debug\WPFProgram.g.resources
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\obj\Debug\WPFProgram.Properties.Resources.resources
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\obj\Debug\WPFProgram.csproj.GenerateResource.Cache
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\obj\Debug\WPFProgram.exe
+C:\Users\HS1122\Desktop\C#\WPFProgram\WPFProgram\obj\Debug\WPFProgram.pdb

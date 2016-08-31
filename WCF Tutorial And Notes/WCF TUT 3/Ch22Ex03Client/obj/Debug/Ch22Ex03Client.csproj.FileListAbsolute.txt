@@ -1,0 +1,8 @@
+C:\Users\HS1122\Desktop\C#\WCF\WCF TUT 3\Ch22Ex03Client\bin\Debug\Ch22Ex03Client.exe.config
+C:\Users\HS1122\Desktop\C#\WCF\WCF TUT 3\Ch22Ex03Client\bin\Debug\Ch22Ex03Client.exe
+C:\Users\HS1122\Desktop\C#\WCF\WCF TUT 3\Ch22Ex03Client\bin\Debug\Ch22Ex03Client.pdb
+C:\Users\HS1122\Desktop\C#\WCF\WCF TUT 3\Ch22Ex03Client\bin\Debug\Ch22Ex03.exe
+C:\Users\HS1122\Desktop\C#\WCF\WCF TUT 3\Ch22Ex03Client\bin\Debug\Ch22Ex03.pdb
+C:\Users\HS1122\Desktop\C#\WCF\WCF TUT 3\Ch22Ex03Client\obj\Debug\Ch22Ex03Client.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\WCF\WCF TUT 3\Ch22Ex03Client\obj\Debug\Ch22Ex03Client.exe
+C:\Users\HS1122\Desktop\C#\WCF\WCF TUT 3\Ch22Ex03Client\obj\Debug\Ch22Ex03Client.pdb

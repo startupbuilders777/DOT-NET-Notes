@@ -1,0 +1,20 @@
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\roslyn\csc.exe
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\roslyn\vbc.exe
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\An ASMX Service.dll.config
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\An ASMX Service.dll
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\An ASMX Service.pdb
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\obj\Debug\An ASMX Service.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\obj\Debug\An ASMX Service.dll
+C:\Users\HS1122\Desktop\C#\WCF\An ASMX Service\An ASMX Service\obj\Debug\An ASMX Service.pdb

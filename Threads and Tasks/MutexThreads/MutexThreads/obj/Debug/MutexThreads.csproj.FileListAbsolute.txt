@@ -1,0 +1,6 @@
+C:\Users\HS1122\Desktop\C#\MutexThreads\MutexThreads\bin\Debug\MutexThreads.exe.config
+C:\Users\HS1122\Desktop\C#\MutexThreads\MutexThreads\bin\Debug\MutexThreads.exe
+C:\Users\HS1122\Desktop\C#\MutexThreads\MutexThreads\bin\Debug\MutexThreads.pdb
+C:\Users\HS1122\Desktop\C#\MutexThreads\MutexThreads\obj\Debug\MutexThreads.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\MutexThreads\MutexThreads\obj\Debug\MutexThreads.exe
+C:\Users\HS1122\Desktop\C#\MutexThreads\MutexThreads\obj\Debug\MutexThreads.pdb

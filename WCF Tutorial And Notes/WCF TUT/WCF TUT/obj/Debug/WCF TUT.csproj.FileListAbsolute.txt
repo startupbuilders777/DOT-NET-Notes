@@ -1,0 +1,6 @@
+C:\Users\HS1122\Desktop\C#\WCF TUT\WCF TUT\bin\WCF TUT.dll.config
+C:\Users\HS1122\Desktop\C#\WCF TUT\WCF TUT\bin\WCF TUT.dll
+C:\Users\HS1122\Desktop\C#\WCF TUT\WCF TUT\bin\WCF TUT.pdb
+C:\Users\HS1122\Desktop\C#\WCF TUT\WCF TUT\obj\Debug\WCF TUT.csprojResolveAssemblyReference.cache
+C:\Users\HS1122\Desktop\C#\WCF TUT\WCF TUT\obj\Debug\WCF TUT.dll
+C:\Users\HS1122\Desktop\C#\WCF TUT\WCF TUT\obj\Debug\WCF TUT.pdb

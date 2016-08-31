@@ -1,0 +1,5 @@
+C:\Users\HS1122\Desktop\C#\Tasks 1.5\Tasks 1.5\bin\Debug\Tasks 1.5.exe.config
+C:\Users\HS1122\Desktop\C#\Tasks 1.5\Tasks 1.5\bin\Debug\Tasks 1.5.exe
+C:\Users\HS1122\Desktop\C#\Tasks 1.5\Tasks 1.5\bin\Debug\Tasks 1.5.pdb
+C:\Users\HS1122\Desktop\C#\Tasks 1.5\Tasks 1.5\obj\Debug\Tasks 1.5.exe
+C:\Users\HS1122\Desktop\C#\Tasks 1.5\Tasks 1.5\obj\Debug\Tasks 1.5.pdb

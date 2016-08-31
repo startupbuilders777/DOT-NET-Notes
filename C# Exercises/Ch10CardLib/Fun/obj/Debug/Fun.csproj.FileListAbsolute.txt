@@ -1,0 +1,16 @@
+C:\Users\Harman\Documents\Visual Studio 2015\Projects\Ch10CardLib\Fun\bin\Debug\Fun.exe.config
+C:\Users\Harman\Documents\Visual Studio 2015\Projects\Ch10CardLib\Fun\bin\Debug\Fun.exe
+C:\Users\Harman\Documents\Visual Studio 2015\Projects\Ch10CardLib\Fun\bin\Debug\Fun.pdb
+C:\Users\Harman\Documents\Visual Studio 2015\Projects\Ch10CardLib\Fun\bin\Debug\CardLib.dll
+C:\Users\Harman\Documents\Visual Studio 2015\Projects\Ch10CardLib\Fun\bin\Debug\CardLib.pdb
+C:\Users\Harman\Documents\Visual Studio 2015\Projects\Ch10CardLib\Fun\obj\Debug\Fun.csprojResolveAssemblyReference.cache
+C:\Users\Harman\Documents\Visual Studio 2015\Projects\Ch10CardLib\Fun\obj\Debug\Fun.exe
+C:\Users\Harman\Documents\Visual Studio 2015\Projects\Ch10CardLib\Fun\obj\Debug\Fun.pdb
+C:\Users\Harman\Desktop\C#\Ch10CardLib\Fun\bin\Debug\Fun.exe.config
+C:\Users\Harman\Desktop\C#\Ch10CardLib\Fun\obj\Debug\Fun.exe
+C:\Users\Harman\Desktop\C#\Ch10CardLib\Fun\obj\Debug\Fun.pdb
+C:\Users\Harman\Desktop\C#\Ch10CardLib\Fun\bin\Debug\Fun.exe
+C:\Users\Harman\Desktop\C#\Ch10CardLib\Fun\bin\Debug\Fun.pdb
+C:\Users\Harman\Desktop\C#\Ch10CardLib\Fun\bin\Debug\CardLib.dll
+C:\Users\Harman\Desktop\C#\Ch10CardLib\Fun\bin\Debug\CardLib.pdb
+C:\Users\Harman\Desktop\C#\Ch10CardLib\Fun\obj\Debug\Fun.csprojResolveAssemblyReference.cache

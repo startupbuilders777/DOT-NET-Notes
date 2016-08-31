@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stories>
+  <story>
+    <title>A House in Aungier Street</title>
+    <authour>
+      <name>Sheriden Le Fanu</name>
+      <nationality>Irish</nationality>
+    </authour>
+    <rating>eerie</rating>
+  </story>
+  <story>
+    <title>The Signalman</title>
+    <authour>
+      <name>Charlie Dickens</name>
+      <nationality>English</nationality>
+    </authour>
+    <rating>atmospheric</rating>
+  </story>
+  <story>
+    <title>The turn of the screw</title>
+    <authour>
+      <name>Henry James</name>
+      <nationality>American</nationality>
+    </authour>
+    <rating>a bit dull</rating>
+  </story>
+</stories>
+<!---Now it is possible to create a schema for this xml file, go to xml option in menue and click schema. Enables intellisense for doc-->
